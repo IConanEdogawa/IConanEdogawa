@@ -15,11 +15,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Conan+Edogawa!;">
 </h1>
 
-<p align="center">
-    <a href ="https://open.spotify.com/track/3VZTCHCLGJ6qjzhmjcqIvt" target="spotify">
-        <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&text=vanished%20by%20Crystal%20Castles" width="300" />
-    </a>
-</p>
 
 
 <!-- Stats Section -->
