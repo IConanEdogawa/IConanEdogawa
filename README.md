@@ -5,6 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Conan%20Edogawa%20&desc=Backend%20.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 
+<a href ="https://open.spotify.com/playlist/7A6G6HO8jNqKhRLdRV7B0V" target="spotify"> <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&text=vanished" width="300" /> </a> </p>
 
 
 
