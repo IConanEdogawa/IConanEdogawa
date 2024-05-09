@@ -2,27 +2,10 @@
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IConanEdogawa.IConanEdogawa.issue.1" /> -->
 <!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMADABDULLOH%20KOMILOV%20&desc=FULL%20STACK%20.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Conan%20Edogawa%20&desc=Backend%20.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
-<h3 align="center">
-    Welcome to Muhammad Abdulloh's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-<!--ANIMATED WELCOME TEXT -->
-<p align="center">
-    <a href="https://github.com/IConanEdogawa/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%202+%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=420&height=45"></a>
-</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-<p align="center"> 
-<a href ="https://open.spotify.com/playlist/7A6G6HO8jNqKhRLdRV7B0V" target="spotify"> <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300" /> </a> </p>
-
-and my GitHub is [IConanEdogawa](https://github.com/IConanEdogawa).
-I'm not a senior developer; I'm a junior .NET developer.
 
 
 
